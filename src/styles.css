@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.addition {
+  border: 0.5px solid black;
+  border-radius: 10px;
+}
+
+.addiv {
+  border: 1px solid black;
+  display: inline-flex;
+}
+
+.additionad {
+  border: 1px solid black;
+  display: block;
+  justify-content: center;
+}
+
+.createadinput {
+  margin: 10px;
+  width: 800px;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+}
+
+.err {
+  font-size: 1rem;
+  color: red;
+  animation: fadeIn 10s;
+}
+
+.btnsubmit {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(255, 198, 11);
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.blue {
+  color: rgb(111, 111, 238);
+}
